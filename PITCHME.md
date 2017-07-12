@@ -49,6 +49,14 @@
 
 +++
 
+<img src="https://imgfp.hotp.jp/IMGH/60/78/P020256078/P020256078_480.jpg" alt="アフォガート">
+
++++
+
+<a href="https://trends.google.co.jp/trends/explore?date=today%205-y&geo=JP&q=%E3%82%A2%E3%83%95%E3%82%A9%E3%82%AC%E3%83%BC%E3%83%88,%E3%82%A2%E3%83%95%E3%82%A9%E3%82%AC%E3%83%BC%E3%83%89,%E3%82%A2%E3%83%83%E3%83%95%E3%82%A9%E3%82%AC%E3%83%BC%E3%83%88,%E3%82%A2%E3%83%83%E3%83%95%E3%82%A9%E3%82%AC%E3%83%BC%E3%83%89,affogato" target="_blank">アッフォガート<br>vs<br>アフォガート<br>vs<br>アッフォガード<br>vs<br>アフォガード</a>
+
++++
+
 <img src="http://www2.bellemaison.jp/product/pic_b/3502017B/C79900pb40_35017B.jpg" width="22%" alt="スリッポン">
 <img src="https://otokomaeken.com/wp-content/uploads/2015/04/71sWUKFC6VL._UL1500_.jpg" width="22%" alt="エスパドリーユ">
 <img src="http://www.fatimamorocco.com/store/upload/save_image/LFM001-MUL_S.jpg" width="22%" alt="バブーシュ">

@@ -65,4 +65,21 @@ vs<br>
 エスパドリーユ</a>
 
 +++
+
+<a href="https://trends.google.co.jp/trends/explore?date=today%205-y&geo=JP&q=%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%BC,%E5%B2%A9%E7%89%A1%E8%A0%A3,%E7%94%9F%E7%89%A1%E8%A0%A3,%E7%89%A1%E8%A0%A3%E7%A5%AD%E3%82%8A,%E3%82%AB%E3%82%AD%E3%83%95%E3%83%A9%E3%82%A4" target="_blank">オイスターバー<br>
+vs<br>
+岩牡蠣<br>
+vs<br>
+生牡蠣<br>
+vs<br>
+カキフライ<br>
+vs<br>
+牡蠣祭り</a>
+
++++
+
+<a href="https://trends.google.co.jp/trends/explore?date=2014-01-01%202017-07-12&geo=JP&q=%E3%83%9C%E3%82%A4%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0,%E3%83%9C%E3%82%A4%E3%83%88%E3%83%AC,%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AB%E6%95%99%E5%AE%A4,%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3,%E6%AD%8C%E5%94%B1%E6%8C%87%E5%B0%8E" target="_blank">ボイストレーニング<br>vs<br>ボイトレ<br>vs<br>ボーカル教室<br>vs<br>歌唱指導<br>vs<br>ボーカルレッスン</a>
+
++++
+
 ### 終
